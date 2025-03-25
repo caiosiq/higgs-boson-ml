@@ -35,12 +35,6 @@ higgs-boson-ml/
 ## Key Libraries
 - PyTorch, Pandas, NumPy, Matplotlib
 
-## Results
-[insert image of loss curves / classification results / Higgs signal plot]
-
-## Notes
-Due to size, only a subset of the dataset is included. Contact me for access to full data or more details.
-
 ## 📊 Results
 
 The neural network was able to isolate Higgs-like events with improved signal significance compared to traditional cut-based methods. Below is an example of the classification output:
