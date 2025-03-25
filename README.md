@@ -11,15 +11,25 @@ This is a simplified version of the full code for simplicty, and all the data fi
 
 ## Structure
 higgs-boson-ml/
+
 ├── CERN-ORIGINAL/              # Raw datasets from CERN
+
 ├── PROCESSED-DATA/             # Transformed training-ready data (from transform_data_all.py)
+
 ├── outputs/                    # Final plots and data after cut application
+
 ├── neural_network/             # Neural network model training, testing, and cut application
+
 │   └── model_training.py       # (example) training and evaluation logic
+
 ├── src/                        # Helper functions used across scripts
+
 ├── data_analysis.py            # Main script to generate final plots after NN cuts
+
 ├── transform_data_all.py       # Script to process raw CERN data to NN-compatible format
+
 ├── README.md
+
 └── requirements.txt
 
 ## Key Libraries
