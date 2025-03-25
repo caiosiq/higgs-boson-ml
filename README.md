@@ -1,7 +1,7 @@
 # Higgs Boson Classification Using ML
 
 This project uses real and simulated particle physics data to train a machine learning model that distinguishes Higgs boson events from background. It was developed as part of an MIT course project.
-This is a simplified version of the full code for simplicty, and all the data files are either removed or reduced for instructional purposes. If you with to have access to the full code, email me.
+This is a simplified version of the full code to demonstrate the ideas, and all the data files are either removed or reduced. If you with to have access to the full code, email me.
 
 ## Goals
 - Apply physics-inspired feature engineering and event selection ("cuts")
